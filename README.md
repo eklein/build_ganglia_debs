@@ -1,5 +1,5 @@
-build_ganglia_debs
-==================
+Docker ganglia debs
+===================
 
 This is a simple Dockerfile to build up an image and create debs for whichever version you want.
 
