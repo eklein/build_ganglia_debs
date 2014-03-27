@@ -29,3 +29,4 @@ RUN ./bootstrap
 
 RUN dpkg-buildpackage
 
+WORKDIR /
